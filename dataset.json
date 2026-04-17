@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Local dining market data for West Valley City in the Mountain West with a population of over 140k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in West Valley City, Utah, US",
-  "export_job_id": "5096433c-3828-428f-9ef5-6fb108e62ee7",
+  "export_job_id": "d99d8f68-8a38-4a0a-b5d9-f87fa24af031",
   "github_org": "Beamstation-Datasets",
   "id_short": 884983,
   "location_name": "West Valley City",
   "location_type": "city",
   "repo_name": "all-restaurants-in-west-valley-city-utah-us-sample-884983",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/884983/beamstation_884983_restaurants-us-ut_SAMPLE_DIST.csv",
-  "sample_pct": 11.68,
+  "sample_pct": 9.91,
   "sample_records": 32,
   "sample_sha256": "2298e96a29721835a729f2e68193077833762d167c5e7401f454c112605bb708",
   "sample_size_bytes": 124024,
-  "total_records": 274,
-  "updated_at": "2026-03-31T13:03:42.986480+00:00"
+  "total_records": 323,
+  "updated_at": "2026-04-14T13:20:48.171158+00:00"
 }
