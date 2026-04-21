@@ -1,6 +1,6 @@
 # All Restaurants in West Valley City, Utah, US
 
-> Free BeamStation sample export with 32 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `884983` |
 | Location | West Valley City |
 | Category | Restaurants |
-| Full dataset size | 323 records |
-| Free sample size | 32 records (9.91%) |
-| Last export | 2026-04-14T13:20:48.171158+00:00 |
+| Full dataset size | 259 records |
+| Free sample size | 25 records (9.65%) |
+| Last export | 2026-04-21T14:17:19.497690+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-west-valley-city-utah-us-sample-884983/releases/download/sample-latest/beamstation_884983_restaurants-us-ut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
