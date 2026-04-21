@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d99d8f68-8a38-4a0a-b5d9-f87fa24af031",
+  "export_job_id": "8e080d7e-8448-414a-8f8f-9f1c924b096a",
   "id_short": 884983,
-  "published_at": "2026-04-17T07:48:23Z",
+  "published_at": "2026-04-21T19:55:51Z",
   "repo_name": "all-restaurants-in-west-valley-city-utah-us-sample-884983",
   "sample_asset_name": "beamstation_884983_restaurants-us-ut_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/884983/beamstation_884983_restaurants-us-ut_SAMPLE_DIST.csv",
-  "sample_records": 32,
-  "sample_sha256": "2298e96a29721835a729f2e68193077833762d167c5e7401f454c112605bb708",
-  "sample_size_bytes": 124024,
-  "total_records": 323
+  "sample_records": 25,
+  "sample_sha256": "7b7d75446869a9f4e7ccfbd3ddf009f54afc9c2a522054f9d4fa8a1d6b523f48",
+  "sample_size_bytes": 100228,
+  "total_records": 259
 }
